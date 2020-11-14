@@ -1,3 +1,11 @@
 * web-marubatu-game
 
+** URL
 - URL: https://web-marubatu-game-1122x.web.app
+
+- [[https://web-marubatu-game-1122x.web.app][You can fly directly to the game from here]]
+
+** CONTENTS
+
+- You can press the triangle mark. And if you align the Marukabatsu
+  marks, you will win.
