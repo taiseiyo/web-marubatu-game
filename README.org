@@ -19,7 +19,7 @@ The specific program is in the public directory
 - Front end 
   - I used *HTML, CSS, JavaScript* for the front end
 - Back end
-  - I leave the back end processing to <strong>[[https://www.topgate.co.jp/firebase01-what-is-firebase][Firebase]]</strong>
+  - I leave the back end processing to *[[https://www.topgate.co.jp/firebase01-what-is-firebase][Firebase]]*
 
 ** IMAGES
 - Image when playing
