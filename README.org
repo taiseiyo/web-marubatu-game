@@ -6,10 +6,20 @@
 - [[https://web-marubatu-game-1122x.web.app][You can fly directly to the game from here]]
 
 ** CONTENTS
-
 - You can press the triangle mark. And if you align the Marukabatsu
   marks, you will win.
 
+- If you want to play from the beginning, you can play from the
+  beginning again by pressing the button at the bottom left of the
+  image.
+
+** TECHNICAL CONTENT
+The specific program is in the public directory
+
+- Front end 
+  - I used HTML, CSS, javascript for the front end
+-  back end
+  - I leave the backend processing to firebase
 ** IMAGES
 - Image when playing
 
