@@ -18,7 +18,7 @@ The specific program is in the public directory
 
 - Front end 
   - I used HTML, CSS, javascript for the front end
--  back end
+- Back end
   - I leave the backend processing to firebase
 ** IMAGES
 - Image when playing
