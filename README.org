@@ -12,3 +12,4 @@
 
 ** IMAGES
 
+[[https://raw.githubusercontent.com/taiseiyo/web-marubatu-game/master/pictures/marubatu.png][Image when playing]]
