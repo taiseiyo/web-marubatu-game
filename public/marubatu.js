@@ -49,14 +49,17 @@ function show_maru_batu(table_id) {
 function playing_first() {
   for (let i = 0; i <= 8; i++) {
     let ids = document.getElementById("id" + i);
-    ref1.child("id" + i).update({symbol: "△"});
-    ref1.on("value", function (snapshot) {
-      ids.innerHTML = snapshot
-        .child("id" + i)
-        .child("symbol")
-        .val();
-    });
+    if (ids.innerHTML != "△") {
+      ref1.child("id" + i).update({symbol: "△"});
+      ref1.on("value", function (snapshot) {
+        ids.innerHTML = snapshot
+          .child("id" + i)
+          .child("symbol")
+          .val();
+      });
+    }
   }
+
   let button2 = document.getElementById("teaching_order");
   ref1.child("word").update({maru_batu_event: "次 → 先攻 〇"});
   ref1.child("flag").update({t_f: true});
