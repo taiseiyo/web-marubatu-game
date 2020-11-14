@@ -17,7 +17,7 @@
 The specific program is in the public directory
 
 - Front end 
-  - I used HTML, CSS, JavaScript for the front end
+  - I used *HTML, CSS, JavaScript* for the front end
 - Back end
   - I leave the back end processing to *Firebase*
 ** IMAGES
