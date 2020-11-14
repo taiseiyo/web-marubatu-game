@@ -11,5 +11,6 @@
   marks, you will win.
 
 ** IMAGES
+- Image when playing
 
-[[https://raw.githubusercontent.com/taiseiyo/web-marubatu-game/master/pictures/marubatu.png][Image when playing]]
+[[https://raw.githubusercontent.com/taiseiyo/web-marubatu-game/master/pictures/marubatu.png]]
